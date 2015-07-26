@@ -86,7 +86,8 @@
           .css({
             'position': 'relative',
             'width':    '100%',
-            'height':   'auto'
+            'height':   'auto',
+            'min-height': '100%'
           })
         ;
         $element
